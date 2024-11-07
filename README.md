@@ -27,6 +27,7 @@ Clone the Repository: Clone this project to your local machine.
 Database Setup:
 Ensure PostgreSQL is installed.
 Run the provided SQL script to create the necessary tables (users, software, requests).
+(add admin data and manager data manualy in data base)
 
 Configure the Application:
 Update database configurations in the code (if required). 
